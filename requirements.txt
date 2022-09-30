@@ -1,0 +1,14 @@
+bertopic
+branca
+folium
+googlemaps
+hdbscan
+matplotlib
+numpy
+pandas
+plotly
+sentence_transformers
+sklearn
+streamlit
+streamlit_folium
+wordcloud
