@@ -2,7 +2,7 @@ bertopic-app
 ==============================
 
 # Project description:
-bertopic-app is intended to scrap googlempas reviews and apply topic modeling techniques on them,
+bertopic-app is intended to scrap googlempas reviews and apply topic modeling techniques on them,\\
 It contains 4 sous-packages : scraping, topicmodeling, EDA (exploratory data analysis) and webapp
 
 # Configuration
